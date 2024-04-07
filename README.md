@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developmenmt
 - 🌱 I’m currently learning how to formulate self-training and active-learning algorithms
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: Via LinkedIn www.linkedin.com/in/ricky-rivera1
+- 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can lick my own elbow
 
