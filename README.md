@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickyTheCoder
 - 👀 I’m interested in full-stack web app dev, quant dev, and ML research
-- 🌱 I’m currently learning how to formulate self-training and active-learning algorithms
+- 🌱 I’m currently working on a fun Pokémon project in a private repo for now...
 - 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
 
 <!---
