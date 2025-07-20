@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickyTheCoder
-- 👀 I’m interested in software dev, quant dev, and ML
+- 👀 I’m interested in full-stack web app dev, quant dev, and ML research
 - 🌱 I’m currently learning how to formulate self-training and active-learning algorithms
 - 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
 
