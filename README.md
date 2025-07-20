@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RickyTheCoder
+- 👋 Welcome! I’m Ricky 
 - 👀 I’m interested in full-stack web app dev, quant dev, and ML research
 - 🌱 I’m currently working on a fun Pokémon project in a private repo for now...
 - 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
