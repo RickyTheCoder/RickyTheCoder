@@ -1,5 +1,5 @@
 - 👋 Hello world! I’m Ricky 
-- 👀 I’m currently working on Pokémon/trading card-related projects in private repos(no deployments yet...)
+- 👀 I’m currently working on trading card-related projects in private repos(no deployments yet...)
 - 🌱 I’m interested in full-stack web app dev, quant dev, and ML research
 - 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
 
