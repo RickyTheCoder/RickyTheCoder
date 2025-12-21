@@ -1,7 +1,5 @@
-- 👋 Hello world! I’m Ricky 
-- 👀 I’m currently working on trading card-related projects in private repos(no deployments yet...)
-- 🌱 I’m interested in full-stack web app dev, quant dev, and ML research
-- 📫 Reach me via LinkedIn: www.linkedin.com/in/ricky-rivera1
+Hello! I’m Ricky 
+- I’m working on trading card-related projects in private repos(no deployments yet...) Also, currently self-studying operating systems and teaching myself C++. 
 
 <!---
 RickyTheCoder/RickyTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
