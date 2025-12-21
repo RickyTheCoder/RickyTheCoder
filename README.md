@@ -1,5 +1,4 @@
-Hello! I’m Ricky 
-- I’m working on trading card-related projects in private repos(no deployments yet...) Also, currently self-studying operating systems and teaching myself C++. 
+I'm currently self-studying operating systems and learning C++.
 
 <!---
 RickyTheCoder/RickyTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
