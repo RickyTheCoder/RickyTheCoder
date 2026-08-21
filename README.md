@@ -1,4 +1,4 @@
-I'm currently self-studying operating systems and learning C++.
+An object in motion stays in motion
 
 <!---
 RickyTheCoder/RickyTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
